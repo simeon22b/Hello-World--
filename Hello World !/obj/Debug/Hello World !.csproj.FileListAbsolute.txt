@@ -1,0 +1,7 @@
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.exe.config
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.exe
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.pdb
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\obj\Debug\Hello World !.exe
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\obj\Debug\Hello World !.pdb
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.exe.CodeAnalysisLog.xml
+c:\users\pepa kostova\documents\visual studio 2013\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.exe.lastcodeanalysissucceeded
